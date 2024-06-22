@@ -13,7 +13,7 @@
     document.body.appendChild(h1);
 
     var a = document.createElement('a');
-    a.href = 'https://github.com/Kenta-kenpy/paiza-Java';
+    a.href = 'https://github.com/Kenta-kenpy/paiza-JavaScript';
     a.textContent = 'JavaScript　標準入力備忘録';
     document.body.appendChild(a);
   </script>
